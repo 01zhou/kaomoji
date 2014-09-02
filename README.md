@@ -1,0 +1,4 @@
+kaomoji
+=======
+
+Kaomoji for Anthy

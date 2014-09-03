@@ -6,4 +6,4 @@ Kaomoji for Anthy
 
 Copy `private_words_default` to `$HOME/.anthy/`
 
-
+`kasumi` is probably needed.
